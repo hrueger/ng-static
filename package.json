@@ -1,0 +1,35 @@
+{
+  "name": "ng-static",
+  "version": "1.0.0",
+  "description": "A generator for static html pages inspired by Angular.",
+  "main": "src/index.js",
+  "bin": {
+    "@hrueger/ng-static": "bin/ng-static",
+    "ng-static": "bin/ng-static"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {},
+  "keywords": [
+    "cli",
+    "ng-static",
+    "static",
+    "html",
+    "Angular",
+    "generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrueger/ng-static.git"
+  },
+  "author": "H. Rüger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrueger/ng-static/issues"
+  },
+  "homepage": "https://github.com/hrueger/ng-static#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
