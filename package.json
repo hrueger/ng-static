@@ -30,6 +30,13 @@
   },
   "homepage": "https://github.com/hrueger/ng-static#readme",
   "dependencies": {
-    "esm": "^3.2.25"
+    "angular-expressions": "^1.0.1",
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "clean-html": "^1.5.0",
+    "esm": "^3.2.25",
+    "js-beautify": "^1.10.3",
+    "rimraf": "^3.0.1",
+    "taskz": "^1.3.0"
   }
 }
